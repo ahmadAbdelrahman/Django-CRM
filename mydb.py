@@ -26,4 +26,6 @@ curserObject = database.cursor()
 
 curserObject.execute('CREATE DATABASE crmdatabase')
 
-print('All Done!')
+print('All Done!') 
+
+print ('DONE')
